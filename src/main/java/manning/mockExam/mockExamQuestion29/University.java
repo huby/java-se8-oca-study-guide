@@ -1,7 +1,7 @@
 package manning.mockExam.mockExamQuestion29;
 
 /**
- * Created by Alvaro Alcocer on 15/03/2017.
+ * Created by Hector Huby on 15/03/2017.
  */
 public class University {
     public static void main(String[] args) {

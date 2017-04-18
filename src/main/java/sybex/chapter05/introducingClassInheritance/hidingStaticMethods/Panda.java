@@ -1,7 +1,7 @@
 package sybex.chapter05.introducingClassInheritance.hidingStaticMethods;
 
 /**
- * Created by Alvaro Alcocer on 10/01/2017.
+ * Created by Hector Huby on 10/01/2017.
  */
 public class Panda extends Bear {
     /*public static void eat() {

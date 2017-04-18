@@ -1,7 +1,7 @@
 package manning.mockExam.mockExamQuestion71;
 
 /**
- * Created by Alvaro Alcocer on 17/03/2017.
+ * Created by Hector Huby on 17/03/2017.
  */
 public class Home {
     public static void main(String[] args) {

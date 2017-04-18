@@ -3,7 +3,7 @@ package sybex.chapter04.applyingAccessModifiers.protectedAccess.pond.swan;
 import sybex.chapter04.applyingAccessModifiers.protectedAccess.pond.shore.Bird;//in difference package than Bird
 
 /**
- * Created by Alvaro Alcocer on 22/12/2016.
+ * Created by Hector Huby on 22/12/2016.
  */
 public class Swan extends Bird {//but subclass of Bird
     public void swim() {

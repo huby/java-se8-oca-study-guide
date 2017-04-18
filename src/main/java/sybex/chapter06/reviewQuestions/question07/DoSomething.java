@@ -1,8 +1,6 @@
 package sybex.chapter06.reviewQuestions.question07;
 
-import chapter06.reviewQuestions.question06.Beetle;
-
-import javax.jws.Oneway;
+import sybex.chapter06.reviewQuestions.question06.Beetle;
 
 /**
  * Created by hector on 04/02/2017.

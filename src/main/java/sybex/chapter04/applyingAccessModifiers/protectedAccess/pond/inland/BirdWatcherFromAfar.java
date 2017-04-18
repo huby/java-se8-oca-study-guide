@@ -3,7 +3,7 @@ package sybex.chapter04.applyingAccessModifiers.protectedAccess.pond.inland;
 import sybex.chapter04.applyingAccessModifiers.protectedAccess.pond.shore.Bird;//different package
 
 /**
- * Created by Alvaro Alcocer on 22/12/2016.
+ * Created by Hector Huby on 22/12/2016.
  */
 public class BirdWatcherFromAfar {
     public void watchBird() {

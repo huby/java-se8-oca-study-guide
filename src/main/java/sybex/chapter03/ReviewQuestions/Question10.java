@@ -5,7 +5,7 @@ import java.util.Collections;
 import java.util.List;
 
 /**
- * Created by Alvaro Alcocer on 19/12/2016.
+ * Created by Hector Huby on 19/12/2016.
  */
 public class Question10 {
     public static void main(String[] args) {

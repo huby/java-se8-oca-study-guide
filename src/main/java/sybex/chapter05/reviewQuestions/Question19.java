@@ -1,7 +1,7 @@
 package sybex.chapter05.reviewQuestions;
 
 /**
- * Created by Alvaro Alcocer on 09/02/2017.
+ * Created by Hector Huby on 09/02/2017.
  */
 public class Question19 {
     public String getNumberOfGills() {

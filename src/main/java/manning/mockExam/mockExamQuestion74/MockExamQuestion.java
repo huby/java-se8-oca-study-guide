@@ -3,7 +3,7 @@ package manning.mockExam.mockExamQuestion74;
 import java.util.Arrays;
 
 /**
- * Created by Alvaro Alcocer on 17/03/2017.
+ * Created by Hector Huby on 17/03/2017.
  */
 public class MockExamQuestion {
     public static void main(String[] args) {

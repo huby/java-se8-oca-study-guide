@@ -3,7 +3,7 @@ package sybex.chapter05.polymorphimAndMethodOverriding;
 import java.util.Arrays;
 
 /**
- * Created by Alvaro Alcocer on 31/01/2017.
+ * Created by Hector Huby on 31/01/2017.
  */
 public class ZooKeeper {
     public static void main(String[] args) {

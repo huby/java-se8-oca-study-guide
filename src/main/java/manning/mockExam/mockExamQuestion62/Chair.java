@@ -1,7 +1,7 @@
 package manning.mockExam.mockExamQuestion62;
 
 /**
- * Created by Alvaro Alcocer on 16/03/2017.
+ * Created by Hector Huby on 16/03/2017.
  */
 public class Chair implements Jumpable, Moveable {
     int height = 3;

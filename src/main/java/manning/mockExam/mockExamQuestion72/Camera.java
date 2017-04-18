@@ -5,7 +5,7 @@ import java.time.LocalDateTime;
 import java.time.LocalTime;
 
 /**
- * Created by Alvaro Alcocer on 17/03/2017.
+ * Created by Hector Huby on 17/03/2017.
  */
 public class Camera {
     public static void main(String[] args) {

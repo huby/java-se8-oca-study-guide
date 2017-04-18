@@ -3,7 +3,7 @@ package manning.chapter04.localDate.manipulatingLocalDate;
 import java.time.LocalDate;
 
 /**
- * Created by Alvaro Alcocer on 17/04/2017.
+ * Created by Hector Huby on 17/04/2017.
  */
 public class Main {
     public static void main(String[] args) {
@@ -21,5 +21,13 @@ public class Main {
         System.out.println(launchCompany.plusWeeks(7));
         System.out.println(launchCompany.plusYears(1));
 
+        // the withXX() methods return a copy of the date instance replacing the
+        // specified day, month, or year in it
+        System.out.println("=========================================");
+        LocalDate firstSex = LocalDate.of(2036, 02, 28);
+        System.out.println(firstSex.withDayOfMonth(1));
+        System.out.println(firstSex.withDayOfYear(1));
+        System.out.println(firstSex.withMonth(7));
+        System.out.println(firstSex.withYear(1));
     }
 }

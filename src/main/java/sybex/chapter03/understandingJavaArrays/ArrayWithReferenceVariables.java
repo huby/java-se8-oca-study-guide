@@ -1,7 +1,7 @@
 package sybex.chapter03.understandingJavaArrays;
 
 /**
- * Created by Alvaro Alcocer on 24/11/2016.
+ * Created by Hector Huby on 24/11/2016.
  */
 public class ArrayWithReferenceVariables {
     public static void main(String[] args) {

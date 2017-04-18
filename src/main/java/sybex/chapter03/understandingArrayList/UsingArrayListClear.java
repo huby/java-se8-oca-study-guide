@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by Alvaro Alcocer on 05/12/2016.
+ * Created by Hector Huby on 05/12/2016.
  */
 public class UsingArrayListClear {
 	public static void main(String[] args) {

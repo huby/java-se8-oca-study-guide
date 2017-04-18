@@ -1,7 +1,7 @@
 package manning.mockExam.mockExamQuestion26;
 
 /**
- * Created by Alvaro Alcocer on 15/03/2017.
+ * Created by Hector Huby on 15/03/2017.
  */
 public class MyCalendar {
 
