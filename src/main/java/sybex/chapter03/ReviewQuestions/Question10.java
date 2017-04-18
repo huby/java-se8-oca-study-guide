@@ -1,4 +1,4 @@
-package sybex.chapter03.ReviewQuestions;
+package sybex.chapter03.reviewQuestions;
 
 import java.util.Arrays;
 import java.util.Collections;
