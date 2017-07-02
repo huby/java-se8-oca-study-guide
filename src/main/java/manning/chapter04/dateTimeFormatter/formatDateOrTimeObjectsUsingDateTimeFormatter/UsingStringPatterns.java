@@ -27,5 +27,22 @@ public class UsingStringPatterns {
 
         System.out.println(t1.format(time));
         System.out.println(t2.format(time));
+
+        Integer integer = new Integer(4);
+        System.out.println(integer.byteValue());
+
+        double num = 2.8_52;
+        float f2 = 5.2f;
+
+        String john = "john";
+        String jhon = new String(john);
+        String jon = new String(john);
+        System.out.println((jhon == jon) + " " + (john.equals(jon)));
+
+        int dog = 11;
+        int cat = 3;
+        int partA = dog /cat;
+        System.out.println(partA);
+        "".equals(null);
     }
 }
